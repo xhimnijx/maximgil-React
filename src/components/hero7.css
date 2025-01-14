@@ -1,0 +1,31 @@
+.hero7-max-width {
+  display: flex;
+  align-self: center;
+  align-items: center;
+  justify-content: center;
+}
+ 
+.hero7-content {
+  gap: var(--dl-space-space-oneandhalfunits);
+  display: flex;
+  max-width: 1000px;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.hero7-text1 {
+  text-align: center;
+}
+ 
+.hero7-text2 {
+  text-align: center;
+}
+ 
+.hero7-text3 {
+  display: inline-block;
+}
+ 
+.hero7-text4 {
+  display: inline-block;
+}
